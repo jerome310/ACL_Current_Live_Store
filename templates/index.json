@@ -8,8 +8,8 @@
             "type": "homepage-product-slider",
             "settings": {}
         },
-        "homepage-hero": {
-            "type": "homepage-hero",
+        "homepage-collection-line": {
+            "type": "homepage-collection-line",
             "settings": {}
         },
         "collection-line": {
@@ -33,5 +33,5 @@
             "settings": {}
         }
     },
-    "order": ["signup-popup-sequence","homepage-product-slider","homepage-hero","collection-line","gradient-message", "variety-product-card", "customers-testimonials", "four-column-description"]
+    "order": ["signup-popup-sequence","homepage-product-slider","homepage-collection-line","collection-line","gradient-message", "variety-product-card", "customers-testimonials", "four-column-description"]
 }
